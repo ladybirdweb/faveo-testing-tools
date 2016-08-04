@@ -9,4 +9,4 @@ These tools that will help you troubleshoote issues while using Faveo
 
 You can also use <a href="https://github.com/ladybirdweb/faveo-probe">Faveo Probe</a> to check if your system requirement meets the criteria to run faveo
 
-PS: if any of these test fail, you need to check your server configuration. There can be various reasons for these test to fail which will be difficult to cover here.
+<strong>PS:</strong> If any of these test fail, you need to check your server configuration. There can be various reasons for these test to fail. Incase you come across an issue and find a solution to it, create a issue on Github and post the solution there so community can learn from this knowledge
