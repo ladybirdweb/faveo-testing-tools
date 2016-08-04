@@ -1,6 +1,6 @@
 # Faveo Testing Tools
 
-These tools will help you troubleshoot issues while using Faveo
+These tools will help you troubleshoot issues while using <a href="https://github.com/ladybirdweb/faveo-helpdesk">Faveo</a>
 
 # These tools are used to run following tests
   1. <strong>Incoming Mails</strong> - Test incoming email setting, if the required ports are open and server settings are configured to read email
