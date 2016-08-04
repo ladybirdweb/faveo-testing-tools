@@ -1,0 +1,15 @@
+***********************************************************************
+*********** Testing Probe of Ladybird Web Solution PVT LTD ************
+***********************************************************************
+
+This is a Email connection testing probe.
+
+There are two types of connection
+1. Email Fetching (IMAP/POP)
+2. Email Sending (SMTP)
+
+With this probe one can test outgoing mails and incoming mails from the 
+server. The outgoing mails uses SMTP protocols which can be tested on 
+the server. And the incoming mails uses IMAP/POP protocol which can also
+be tested with this probe.
+
